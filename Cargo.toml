@@ -1,0 +1,7 @@
+[package]
+name = "numbers"
+version = "0.1.0"
+authors = ["Santi Teeragul <santitee@gmail.com>"]
+edition = "2021"
+
+[dependencies]
